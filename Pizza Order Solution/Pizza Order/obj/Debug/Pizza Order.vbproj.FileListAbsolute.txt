@@ -1,0 +1,24 @@
+E:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.exe.config
+E:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.exe
+E:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.pdb
+E:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.xml
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.vbprojAssemblyReference.cache
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza_Order.PizzaOrder.resources
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza_Order.Resources.resources
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.vbproj.GenerateResource.cache
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.exe
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.xml
+E:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.pdb
+F:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.exe.config
+F:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.exe
+F:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.pdb
+F:\Visual Basic\Pizza Order Solution\Pizza Order\bin\Debug\Pizza Order.xml
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.vbprojAssemblyReference.cache
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza_Order.PizzaOrder.resources
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza_Order.Resources.resources
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.vbproj.GenerateResource.cache
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.vbproj.CoreCompileInputs.cache
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.exe
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.xml
+F:\Visual Basic\Pizza Order Solution\Pizza Order\obj\Debug\Pizza Order.pdb
